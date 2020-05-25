@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[12]:
 
 
 from keras.datasets import mnist
@@ -72,7 +68,6 @@ file1.write(str(best_acc))
 file1.close()
 
 
-# In[ ]:
 
 
 
