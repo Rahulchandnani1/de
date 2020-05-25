@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
 
 
 import smtplib
@@ -21,9 +17,6 @@ print("Login Success!")
 
 server.sendmail("Rahul chandnani", "tnamaste573@gmail.com", message)
 print(f"Email has been sent successfully to {rec_email}")
-
-
-# In[ ]:
 
 
 
