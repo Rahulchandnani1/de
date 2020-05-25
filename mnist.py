@@ -41,13 +41,12 @@ file1 = open("result.txt","w")
 file1.write(str(scores[1]*100))
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
+
 
 
 
