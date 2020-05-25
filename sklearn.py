@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[6]:
 
 
 from sklearn.datasets import load_digits 
@@ -18,7 +15,7 @@ file1 = open("result.txt","w")
 file1.write(str(score))
 
 
-# In[ ]:
+
 
 
 
